@@ -18,12 +18,15 @@ I'm Android Developer and Developer Advocate at [Huawei]
 </details>
 
 <details>
-  <summary>GitHub Language Split</summary>
+  <summary>My Top Languages</summary>
 
-![github language split]
+![Top Languages]
 
 </details>
 
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:f.prieto.moyano@gmail.com">![f.prieto.moyano@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fernando-prieto-moyano-a7206b46/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://f-prieto-moyano.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 ### Now Playing - Spotify 🎧
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=21dvdjnqkc22qboggt27pbitq&cover_image=true&theme=novatorem" alt="Fer, Spotify Playing" width="350" />](https://github.com/kittinan/spotify-github-profile) 
@@ -32,4 +35,4 @@ I'm Android Developer and Developer Advocate at [Huawei]
 [huawei]: https://www.huawei.com/uk/ 
 [github stats card]: https://github-readme-stats.vercel.app/api?username=ferPrieto
 [github trophies]: https://github-profile-trophy.vercel.app/?username=ferPrieto&column=4&margin-w=18&margin-h=15
-[github language split]: https://ghui.vercel.app/pie.png?username=ferPrieto
+[top languages]: (https://github-readme-stats.vercel.app/api/top-langs/?username=ferPrieto&amp;layout=compact)
