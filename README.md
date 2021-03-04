@@ -4,7 +4,7 @@
 
 Android Developer since 2012 and currently Developer Advocate at [Huawei]
 
-###📍 London
+### 📍 London
 
 
 ### Now Playing - Spotify 🎧
