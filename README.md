@@ -1,7 +1,10 @@
 
+
 ### Ey up Github, how ya doin? Y'alright? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 Android Developer since 2012 and currently Developer Advocate at [Huawei]
+
+📍 London
 
 <h2>📫 How to reach me:</h2>
 
