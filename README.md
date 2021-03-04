@@ -37,7 +37,7 @@ I'm Android Developer and Developer Advocate at [Huawei]
 
 
 [huawei]: https://www.huawei.com/uk/
-[youtube]: https://www.youtube.com/watch?v=VSPzemzlJvo&t=1s
+[youtube]: https://www.youtube.com/embed/VSPzemzlJvo?width=560&height=315
 [github stats card]: https://github-readme-stats.vercel.app/api?username=ferPrieto
 [github trophies]: https://github-profile-trophy.vercel.app/?username=ferPrieto&column=4&margin-w=18&margin-h=15
 [github language split]: https://ghui.vercel.app/pie.png?username=ferPrieto
