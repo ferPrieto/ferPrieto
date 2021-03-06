@@ -2,6 +2,7 @@
 
 I'm Fernando Prieto, Android Developer since 2012 and currently Developer Advocate at [Huawei]
 
+<a href="mailto:f.prieto.moyano@gmail.com">![f.prieto.moyano@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fernando-prieto-moyano-a7206b46/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://f-prieto-moyano.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 ---
 
 ### Latest Development/Advocacy Activity :fire:
@@ -15,11 +16,6 @@ I'm Fernando Prieto, Android Developer since 2012 and currently Developer Advoca
 
 ### Now Playing - Spotify 🎧
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=21dvdjnqkc22qboggt27pbitq&cover_image=true&theme=novatorem" alt="Fer, Spotify Playing" width="350" />](https://github.com/kittinan/spotify-github-profile) 
-
----
-### 📫 How to reach me:
-
-<a href="mailto:f.prieto.moyano@gmail.com">![f.prieto.moyano@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fernando-prieto-moyano-a7206b46/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://f-prieto-moyano.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 
 [huawei]: https://www.huawei.com/uk/  
