@@ -19,7 +19,7 @@ I'm Fernando Prieto, Android Developer since 2012 and currently Developer Advoca
 
 
 [huawei]: https://www.huawei.com/uk/  
-[appgallery reports repository]: https://github.com/ferPrieto/steps-app-gallery-reports
+[appgallery connect reports]: https://github.com/ferPrieto/steps-app-gallery-reports
 [youtube video]: https://www.youtube.com/watch?v=VSPzemzlJvo&t
 [deploy to appgallery connect]: https://github.com/ferPrieto/steps-app-gallery-deploy
 [medium article]: https://medium.com/huawei-developers/deploy-to-huawei-appgallery-verified-bitrise-step-f4cec6c2b036
