@@ -7,7 +7,7 @@ I'm Fernando Prieto, Android Developer since 2012 and currently Developer Advoca
 
 ### Latest Development/Advocacy Activity :fire:
 
-1. :movie_camera:  My YouTube video tutorial at the Huawei Developers channel[Huawei Developers YouTube]
+1. :movie_camera:  My YouTube video tutorial at the Huawei Developers channel [Huawei Developers YouTube]
 2. :robot: Brand new Bitrise Step: Huawei [AppGallery Connect Reports]
 3. :movie_camera: My first ever YouTube video tutorial at the Bitrise Channel [YouTube Video]
 4. :robot: New version of the Bitrise Step: Huawei [Deploy to AppGallery Connect]
