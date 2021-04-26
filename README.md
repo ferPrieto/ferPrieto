@@ -7,22 +7,22 @@ I'm Fernando Prieto, Android Developer since 2012 and currently Developer Advoca
 
 ### Latest Development/Advocacy Activity :fire:
 
-1. :memo: My latest Medium Article - AGC Reports [latest Medium article]
+1. :memo: My latest Medium Article - [AppGallery Connect Reports]
 2. :movie_camera:  My YouTube video tutorial at the Huawei Developers channel [Huawei Developers YouTube]
 3. :robot: Brand new Bitrise Step: Huawei [AppGallery Connect Reports]
 4. :movie_camera: My first ever YouTube video tutorial at the Bitrise Channel [YouTube Video]
 5. :robot: New version of the Bitrise Step: Huawei [Deploy to AppGallery Connect]
-6. :memo: Deploy to Huawei App Gallery with Bitrise - Medium Article [AGC Bitrise]
+6. :memo: Deploy to Huawei App Gallery with Bitrise - [Huawei AGC Step] Medium Article
 
 ---
 
 ### Now Playing - Spotify 🎧
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=21dvdjnqkc22qboggt27pbitq&cover_image=true&theme=novatorem" alt="Fer, Spotify Playing" width="350" />](https://github.com/kittinan/spotify-github-profile) 
 
-[latest medium article]: https://medium.com/appgallery/huawei-agc-reports-verified-bitrise-step-a9919cc98cda 
+[appgallery connect reports]: https://medium.com/appgallery/huawei-agc-reports-verified-bitrise-step-a9919cc98cda 
 [huawei]: https://www.huawei.com/uk/  
 [huawei developers youtube]: https://youtu.be/2DAySnU-5zU
 [appgallery connect reports]: https://github.com/ferPrieto/steps-app-gallery-reports
 [youtube video]: https://www.youtube.com/watch?v=VSPzemzlJvo&t
 [deploy to appgallery connect]: https://github.com/ferPrieto/steps-app-gallery-deploy
-[agc bitrise]: https://medium.com/huawei-developers/deploy-to-huawei-appgallery-verified-bitrise-step-f4cec6c2b036
+[huawei agc step]: https://medium.com/huawei-developers/deploy-to-huawei-appgallery-verified-bitrise-step-f4cec6c2b036
