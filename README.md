@@ -5,20 +5,26 @@ I'm Fernando Prieto, Android Developer since 2012 and currently Developer Advoca
 <a href="mailto:f.prieto.moyano@gmail.com">![f.prieto.moyano@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fernando-prieto-moyano-a7206b46/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://f-prieto-moyano.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 ---
 
-### Latest Development/Advocacy Activity :fire:
+### Latest Development:computer:/Advocacy:avocado: Activity 
 
-1. :memo: My latest Medium Article - [AppGallery Connect Reports]
-2. :movie_camera:  My YouTube video tutorial at the Huawei Developers channel [Huawei Developers YouTube]
-3. :robot: Brand new Bitrise Step: Huawei [AppGallery Connect Reports]
-4. :movie_camera: My first ever YouTube video tutorial at the Bitrise Channel [YouTube Video]
-5. :robot: New version of the Bitrise Step: Huawei [Deploy to AppGallery Connect]
-6. :memo: Deploy to Huawei App Gallery with Bitrise - [Huawei AGC Step] Medium Article
+1. :movie_camera: Talk for Huawei & Bitrise Webinar (Sep'21)- [huawei appgallery and bitrise webinar]
+2. :movie_camera: Talk for HDG UK - CICD (May'21)[hdg uk cicd]
+3. :movie_camera: Talk for Huawei Latinoamerica [huawei developer latinoamerica]
+4. :memo: My latest Medium Article - [AppGallery Connect Reports]
+5. :movie_camera:  My YouTube video tutorial at the Huawei Developers channel [Huawei Developers YouTube]
+6. :robot: Brand new Bitrise Step: Huawei [AppGallery Connect Reports]
+7. :movie_camera: My first ever YouTube video tutorial at the Bitrise Channel [YouTube Video]
+8. :robot: New version of the Bitrise Step: Huawei [Deploy to AppGallery Connect]
+9. :memo: Deploy to Huawei App Gallery with Bitrise - [Huawei AGC Step] Medium Article
 
 ---
 
 ### Now Playing - Spotify 🎧
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=21dvdjnqkc22qboggt27pbitq&cover_image=true&theme=novatorem" alt="Fer, Spotify Playing" width="350" />](https://github.com/kittinan/spotify-github-profile) 
 
+[huawei appgallery and bitrise webinar]: https://www.youtube.com/watch?v=mlcFJRvMFSM&t
+[hdg uk cicd]: https://www.youtube.com/watch?v=K_FDWiXp53E&t
+[huawei developer latinoamerica]: https://www.youtube.com/watch?v=e1VCWFJbmnM&t
 [appgallery connect reports]: https://medium.com/appgallery/huawei-agc-reports-verified-bitrise-step-a9919cc98cda 
 [huawei]: https://www.huawei.com/uk/  
 [huawei developers youtube]: https://youtu.be/2DAySnU-5zU
