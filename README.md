@@ -10,9 +10,9 @@ I'm Fernando Prieto, Android Developer since 2012 and currently Developer Advoca
 1. :movie_camera: Talk for Huawei & Bitrise Webinar (Sep'21)- [Huawei Appgallery and Bitrise Webinar]
 2. :movie_camera: Talk for HDG UK - CICD (May'21) [HDG UK CICD]
 3. :movie_camera: Talk for Huawei Latinoamerica [Huawei Developers Latinoamerica]
-4. :memo: My latest Medium Article - [AppGallery Connect Reports]
+4. :memo: My latest Medium Article - [AppGallery Connect Reports] Medium Article
 5. :movie_camera:  My YouTube video tutorial at the Huawei Developers channel [Huawei Developers YouTube]
-6. :robot: Brand new Bitrise Step: Huawei [AppGallery Connect Reports]
+6. :robot: Brand new Bitrise Step: Huawei [AppGallery Connect Reports] Medium Article
 7. :movie_camera: My first ever YouTube video tutorial at the Bitrise Channel [YouTube Video]
 8. :robot: New version of the Bitrise Step: Huawei [Deploy to AppGallery Connect]
 9. :memo: Deploy to Huawei App Gallery with Bitrise - [Huawei AGC Step] Medium Article
