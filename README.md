@@ -1,11 +1,11 @@
 ### Ey up Github, how ya doin? Y'alright? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-I'm Fernando Prieto, Android Developer since 2012 and currently Senior Android Developer at [godaddy]
+I'm Fernando Prieto, Android Developer since 2012 and currently Senior Android Developer at [GoDaddy]
 
 <a href="mailto:f.prieto.moyano@gmail.com">![f.prieto.moyano@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fernando-prieto-moyano-a7206b46/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://f-prieto-moyano.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 ---
 
-### The latest Development & Advocacy activity :computer::avocado:
+### My latest Development & Advocacy activity :computer::avocado:
 
 1. :memo: Lessons learned on Jetpack Compose UI Testing: MockWebServer- [mockwebserver] Medium Article
 2. :movie_camera: Talk for Huawei & Bitrise Webinar (Sep'21)- [Huawei Appgallery and Bitrise Webinar]
@@ -28,7 +28,7 @@ I'm Fernando Prieto, Android Developer since 2012 and currently Senior Android D
 [hdg uk cicd]: https://www.youtube.com/watch?v=K_FDWiXp53E&t
 [huawei developers latinoamerica]: https://www.youtube.com/watch?v=e1VCWFJbmnM&t
 [appgallery connect reports]: https://medium.com/appgallery/huawei-agc-reports-verified-bitrise-step-a9919cc98cda 
-[godaddy]: https://www.godaddy.com
+[GoDaddy]: https://www.godaddy.com
 [huawei developers youtube]: https://youtu.be/2DAySnU-5zU
 [appgallery connect reports]: https://github.com/ferPrieto/steps-app-gallery-reports
 [youtube video]: https://www.youtube.com/watch?v=VSPzemzlJvo&t
