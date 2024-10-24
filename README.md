@@ -1,4 +1,4 @@
-## Hey Github devs, how you doing? Y'alright? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+## Hey Github, welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 I'm Fernando Prieto, Android Developer since 2012 and currently Principal Android Engineer at [GoDaddy].
 
