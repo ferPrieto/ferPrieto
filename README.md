@@ -1,4 +1,4 @@
-## Hey Github devs, how you doing? Y'alright? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+## Hey Github, welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 Passionate Android Developer since 2012, currently shaping the future of mobile at [GoDaddy] as a Principal Android Engineer.
 
