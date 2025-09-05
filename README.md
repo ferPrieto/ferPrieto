@@ -6,8 +6,8 @@ Passionate Android Developer since 2012, currently shaping the future of mobile 
 ---
 
 These are my most recent publications:
-- :memo: GoDaddy Android App Bitrise Optimizations [godaddy-blog] GoDaddy blog post
-- :memo: A UI component inspired by Soundcloud [medium-post] Medium Article
+- :memo: GoDaddy Android App Bitrise Optimizations [godaddy-blog]
+- :memo: A UI component inspired by Soundcloud [medium-post]
 
 
 :bowtie: Check out all of my previous publications [here](./publications.md) 
