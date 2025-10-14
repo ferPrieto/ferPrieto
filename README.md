@@ -5,7 +5,9 @@ Passionate Android Developer since 2012, currently shaping the future of mobile 
 <a href="mailto:f.prieto.moyano@gmail.com">![f.prieto.moyano@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fernando-prieto-moyano-a7206b46/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://f-prieto-moyano.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 ---
 
-These are my most recent publications:
+These are my most recent publications (2025):
+- :memo: The Future of Android Isn’t About Apps Anymore [medium-mcp]
+- :memo: MVVM Does Everything MVI Promises [medium-mvvm]
 - :memo: GoDaddy Android App Bitrise Optimizations [godaddy-blog]
 - :memo: A UI component inspired by Soundcloud [medium-post]
 
@@ -13,6 +15,8 @@ These are my most recent publications:
 :bowtie: Check out all of my previous publications [here](./publications.md) 
 
 [GoDaddy]: https://www.godaddy.com
+[medium-mcp]: https://f-prieto-moyano.medium.com/the-future-of-android-isnt-about-apps-anymore-91892254238a
+[medium-mvvm]: https://medium.com/proandroiddev/mvvm-does-everything-mvi-promises-7ed51af56cc2
 [godaddy-blog]: https://www.godaddy.com/resources/news/godaddy-android-app-bitrise-optimizations
 [medium-post]: https://medium.com/@f-prieto-moyano/a-ui-component-inspired-by-soundcloud-5e698f79573e
 
